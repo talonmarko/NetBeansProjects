@@ -53,7 +53,7 @@ public class atm {
             //exit atm
                 case 4:
                     System.out.println("Kiitos käynnistä, ja tervetuloa uudelleen!");
-                    System.exit(0);
+                    System.exit(4);
                     
             }
         }
